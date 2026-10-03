@@ -1,1 +1,1 @@
-﻿Modification effectuee sur la branche MAIN
+Conflit resolu : fusion des modifications de MAIN et DEV
