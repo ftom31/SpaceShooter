@@ -1,1 +1,1 @@
-Conflit résolu : fusion de MAIN et DEV
+ï»¿Modification effectuee sur la branche MAIN
