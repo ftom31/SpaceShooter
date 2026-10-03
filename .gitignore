@@ -1,0 +1,10 @@
+﻿Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.slnx
+p4config.txt
